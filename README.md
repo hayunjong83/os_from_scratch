@@ -6,4 +6,10 @@
 
 <hr/>
 
+0. [실습 환경 구성](./0_prep/README.md)
+
+<hr />
+
+
+
 - 참고) [mikanos-build](https://github.com/uchan-nos/mikanos-build) : 책에서 제작하는 OS 실습을 위한 개발환경 구축
